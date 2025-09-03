@@ -47,4 +47,8 @@ This gap reduces the chances of timely interventions and limits curriculum impro
 We thank our lecturer, **Nazmirul Izzad Bin Nasir**, for his guidance and feedback.  
 We also acknowledge City University Malaysia for providing resources, and all group members for their collaboration.
 
+Power BI Visualization Dashboard
+<img width="1303" height="733" alt="image" src="https://github.com/user-attachments/assets/7ee6ad5e-ad78-47ff-994a-bd31f79aadc3" />
+
+
 
